@@ -1,3 +1,4 @@
+1. <!-- ======= Counts Section ======= -->
 <!-- ======= Counts Section ======= -->
     
     <section id="counts" class="counts">
