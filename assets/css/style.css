@@ -1432,6 +1432,8 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
+  left: 50%;
+  align-items: center;
 }
 
 #footer .footer-top .social-links a:hover {
@@ -1522,6 +1524,7 @@ section {
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
+  
 }
 
 #footer .credits {
